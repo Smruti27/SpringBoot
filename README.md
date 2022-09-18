@@ -1,1 +1,1 @@
-# SptingBoot
+# SpringBoot
